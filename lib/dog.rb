@@ -1,1 +1,5 @@
-Dog = "Fido"
+Class Dog
+
+
+
+end
